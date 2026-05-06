@@ -4,13 +4,15 @@ API_KEYS.txt
 # Local data and generated artifacts
 HSR/
 datasets/
+data/
 intermediate_datasets/
 citation_data/
-hsr_analysis/
 outputs/
 HSR_full_data.csv
 HSRmap.html
 citation_metadata_links.csv
+__pycache__/
+*.pyc
 
 # Exploratory/old local work
 first_approach/
