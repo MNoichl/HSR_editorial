@@ -1,0 +1,18 @@
+.DS_Store
+API_KEYS.txt
+
+# Local data and generated artifacts
+HSR/
+datasets/
+intermediate_datasets/
+citation_data/
+hsr_analysis/
+outputs/
+HSR_full_data.csv
+HSRmap.html
+citation_metadata_links.csv
+
+# Exploratory/old local work
+first_approach/
+get_citations.ipynb
+.ipynb_checkpoints/
